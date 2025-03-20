@@ -1,0 +1,143 @@
+/* Admin Page Background */
+.admin-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    min-height: 100vh;
+    color: #fff;
+  }
+  
+  /* Headings */
+  .admin-h1 {
+    color: #F7DBA7;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.8rem;
+    font-weight: 700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .admin-h2 {
+    color: #F7DBA7;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    /* //sdfdgv */
+  }
+  
+  /* File Upload Section */
+  .admin-file-upload {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .admin-file-upload input[type="file"] {
+    padding: 8px 18px;
+    margin-right:10px;
+    font-size: 1rem;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    color: black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .admin-submit-btn{
+    background-color: #137c21;
+    transition: all 0.2s ease;
+  }
+  .admin-submit-btn:hover{
+    transform: scale(1.1);
+    background-color: #137c21;
+  }
+  
+  /* Buttons */
+  .admin-btn {
+    margin: 5px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: black;
+    font-weight: 600;
+    background-color: #E6E1C5;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+  }
+  .admin-btn:hover {
+    transform: scale(1.1);
+    background-color: #D4CB92;
+    color: black;
+  }
+  
+  .admin-btn.primary {
+    background: linear-gradient(to right, #ffcc00, #ffa500);
+    color: #000;
+    border: none;
+  }
+  
+  
+  /* Table Styling */
+  .admin-table {
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .admin-table th,.admin-table td {
+    text-align: center;
+    padding: 16px;
+    font-size: 1rem;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+  }
+  
+  .admin-table th {
+    background-color: #E6E1C5;
+    color: #000;
+    font-weight: bolder ;
+    text-transform: uppercase;
+  }
+  
+
+  /* Modal Styling */
+  .modal-header {
+    background-color: #E6E1C5;
+    color: #000;
+    font-weight: bold;
+  }
+  .modal-body,.modal-footer{
+    background-color: #e6e1c588;
+  }
+  
+  .modal-footer button {
+    margin-left: 10px;
+  }
+  
+  .modal-body .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .modal-body .form-group label {
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+  }
+  
+  .modal-body .form-control {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 1rem;
+    background: #333333ba;
+    color: white;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .modal-body .form-control:focus {
+    border-color: white;
+    box-shadow: 0 0 8px rgba(255, 204, 0, 0.7);
+  }
+  
+    
+  
