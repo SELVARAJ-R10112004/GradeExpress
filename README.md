@@ -57,7 +57,7 @@ We are developing GradeExpress specifically for the purpose of credit transfer f
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/karthick-1304/GradeExpress.git
+git clone https://github.com/SELVARAJ-R10112004/GradeExpress.git
 cd projectname
 ```
 
