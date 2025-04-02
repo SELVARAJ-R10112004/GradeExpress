@@ -81,8 +81,8 @@ npm start
 ---
 
 ## 📩 **Contact**  
-💎 **Email:** ponkarthikeyan13@gmail.com  
-⭐ **About Me:**[PONKARTHIKEYAN_P_RESUME.pdf](https://github.com/user-attachments/files/19546239/PONKARTHIKEYAN_P_RESUME.pdf)
+💎 **Email:** rselvaraj101104@gmail.com  
+⭐ **About Me:**[SELVARAJ_R_Resume.pdf](https://github.com/user-attachments/files/19561309/2212074_Resume.-.Copy.pdf)
 
 ---
 
